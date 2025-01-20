@@ -1,0 +1,1 @@
+This repository contains examples of common and uncommon errors in Rust.  Specifically, this example demonstrates an out-of-bounds vector access and how to handle it safely.
