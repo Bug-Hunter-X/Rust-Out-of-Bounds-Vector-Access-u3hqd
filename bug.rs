@@ -1,0 +1,1 @@
+fn main() {    let mut numbers = vec![1, 2, 3, 4, 5];    let index = 10;    let number = numbers.get(index).copied().unwrap_or(0);    println!("The number at index {} is {}", index, number);}
